@@ -28,14 +28,14 @@ const Home = () => {
 								<br />
 								<br />
 								<p className="text-two">
-									Finding Your Perfect Items{" "}
+									finding a perfect model{" "}
 								</p>
 								<br />
 								<p className="text-three">
-									At An Affordable Price
+									The MFOF T-shirts are at an Affordable Price
 								</p>
 								<div className="button">
-									<button>Shop now</button>
+									<button>Enter now</button>
 								</div>
 							</div>
 
