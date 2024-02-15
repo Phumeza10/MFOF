@@ -19,21 +19,22 @@ const About = () => {
 						</div>
 						<div className="right">
 							<div className="topic">
-								Never Die Broke Invision
+								Miss Face of Orange Farm 
 							</div>
 							<br />
 							<br />
-							<p>
-								Never Die Broke Invisions Clothing(SA) was
-								founded on May 31,2023.It is situated in Protea
-								Glen ext 12,Soweto.The brand is crafted for for
-								risilient entrepreneurs and hustlers who
-								persevere in their pursuits, as well individuals
-								committed to ensuring they never experience
-								financial hardships in other words (THEY NEVER
-								DIE BROKE).Operating daily,except on Sundays and
-								public hoidays, the brand embodies the spirit of
-								determination.
+							<p> Miss face of orange farm specializes with young women and men who are talented and want to fulfill their modelling career. Miss face of orange Farm was founded in 2021 the whole objective is to help the youth discover their natural gift and talent so as to develop it. In the MFOF we train the young people to discover their self to understand personal life purpose and prepare the young woman for them to enter the miss south africa one day.
+
+								
+								
+								
+							
+							
+								
+							
+								
+							
+	
 							</p>
 						</div>
 					</div>
