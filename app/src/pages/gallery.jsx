@@ -4,13 +4,8 @@ import skullpic1 from "../components/assets/skullpic1.jpg";
 import FB_IMG_1705376759569 from "../components/assets/ FB_IMG_1705376759569.jpg";
 import 5bb55918050940d7a43e68665e25e119 from "../components/assets/5bb55918050940d7a43e68665e25e119.jpg;
 import FB_IMG_1707888972177 from "../components/assets/ FB_IMG_1707888972177.jpg";
-import skullsnake from "../components/assets/skullsnake.jpg";
-import findyourpurpose2 from "../components/assets/findyourpurpose2.jpg";
-import safaricap from "../components/assets/safaricap.jpg";
-import panelcap from "../components/assets/panelcap.jpg";
+import FB_IMG_1705526212462 from "../components/assets/FB_IMG_1705526212462.jpg ";
 import beanie from "../components/assets/beanie.jpg";
-import beanie2 from "../components/assets/beanie2.jpg";
-import beanie3 from "../components/assets/beanie3.jpg";
 import hoodies from "../components/assets/hoodies.jpg";
 import Footer from "./footer";
 
@@ -41,7 +36,7 @@ const Gallery = () => {
 										</div>
 									</div>
 									<div className="grid-item">
-										<div className="{pic2FB_IMG_1705376759569.jpg} alt="" />
+										<div className="{pic2 FB_IMG_1705376759569.jpg} alt="" />
 											<p>Miss Face of Orange Farm </p>
 											<p>Queen</p>
 											<p>R2022</p>
@@ -64,66 +59,66 @@ const Gallery = () => {
 										</div>
 									</div>
 									<div className="grid-item">
-										<div className="pic5">
-											<img src={} alt="" />
+										<div className="pic4">
+											<img src={FB_IMG_1705526212462} alt="" />
 											<p>Miss Face of Orange Farm </p>
 											<p>founder </p>
 											<p>Phumeza Lukhele </p>
 										</div>
 									</div>
-									<div className="grid-item">
-										<div className="pic6">
-											<img
-												src={co-founder}
-												alt=""
-											/>
-											<p>Miss Face of Orange Farm </p>
-											<p>
-												co-founder 
-											</p>
-											<p>Phindile Maduna</p>
-										</div>
+									
+										
+											
+												
+												
+											
+											
+											
+									
+											
+											
+										
 									</div>
-									<div className="grid-item">
-										<div className="pic7">
-											<img src={co-founder} alt="" />
-											<p>Miss Face of Orange Farm </p>
-											<p>co-founder</p>
-											<p>Penuel</p>
-										</div>
+									
+										
+											
+											
+											
+											
+										
 									</div>
-									<div className="grid-item">
-										<div className="pic8">
-											<img src={sponsor} alt="" />
-											<p>Miss Face of Orange Farm </p>
-											<p>sponsor</p>
-											<p>hplogo</p>
-										</div>
+									
+										
+											
+											
+											
+											
+										
 									</div>
-									<div className="grid-item">
-										<div className="pic9">
-											<img src={sponsor} alt="" />
-											<p>Miss Face of Orange Farm </p>
-											<p>sponsor </p>
-											<p>Adidas</p>
-										</div>
+									
+										
+											
+											
+											
+											
+										
 									</div>
-									<div className="grid-item">
-										<div className="pic10">
-											<img src={crown} alt="" />
-											<p>Miss Face of Orange Farm </p>
-											<p>crown</p>
-											<p>R90</p>
-										</div>
+									
+										
+										
+											
+											
+										
+										
 									</div>
-									<div className="grid-item">
-										<div className="pic11">
-											<img src={logo} alt="" />
-											<p>Miss Face of Orange Farm </p>
-											<p>logo</p>
-											<p>MFOF</p>
-										</div>
-									</div>
+									
+										
+										
+											
+											
+											
+							
+				</div>
 									<div className="grid-item">
 										<div className="pic12">
 											<img src={hoodies} alt="" />
