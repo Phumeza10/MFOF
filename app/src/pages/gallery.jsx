@@ -27,7 +27,7 @@ const Gallery = () => {
 						<div className="left_box">
 							<div className="header">
 								<div className="heading">
-									<h2>Now Featured Top Selling Products</h2>
+									<h2> Miss Face of Orange Farm Models </h2>
 								</div>
 							</div>
 							<div className="product">
@@ -35,102 +35,102 @@ const Gallery = () => {
 									<div className="grid-item">
 										<div className="pic1">
 											<img src={skullpic1} alt="" />
-											<p>Never Die Broke Invisions</p>
-											<p>Skull Snake Black T-shirt</p>
-											<p>R280</p>
+											<p>Miss Face of Orange Farm </p>
+											<p>T-shirt</p>
+											<p>R100</p>
 										</div>
 									</div>
 									<div className="grid-item">
 										<div className="pic2">
-											<img src={rivalry} alt="" />
-											<p>Never Die Broke Invisions</p>
-											<p>Rivalry IV White T-shirt</p>
-											<p>R250</p>
+											<img src={Queen} alt="" />
+											<p>Miss Face of Orange Farm </p>
+											<p>Queen</p>
+											<p>R2022</p>
 										</div>
 									</div>
 									<div className="grid-item">
 										<div className="pic3">
-											<img src={neverdiebroke} alt="" />
-											<p>Never Die Broke Invisions</p>
-											<p>White T-shirt</p>
-											<p>R250</p>
+											<img src={CharityQueen} alt="" />
+											<p>Miss Face of Orange Farm </p>
+											<p>Charity Queen</p>
+											<p>R2022</p>
 										</div>
 									</div>
 									<div className="grid-item">
 										<div className="pic4">
-											<img src={rivallry2} alt="" />
-											<p>Never Die Broke Invisions</p>
-											<p>Rivalry IV Black T-shirt</p>
-											<p>R250</p>
+											<img src={charity} alt="" />
+											<p>Miss Face of Orange Farm </p>
+											<p>charity</p>
+											<p>2022</p>
 										</div>
 									</div>
 									<div className="grid-item">
 										<div className="pic5">
-											<img src={skullsnake} alt="" />
-											<p>Never Die Broke Invisions</p>
-											<p>Skull Snake White T-shirt</p>
-											<p>R280</p>
+											<img src={founder} alt="" />
+											<p>Miss Face of Orange Farm </p>
+											<p>founder </p>
+											<p>Phumeza Lukhele </p>
 										</div>
 									</div>
 									<div className="grid-item">
 										<div className="pic6">
 											<img
-												src={findyourpurpose2}
+												src={co-founder}
 												alt=""
 											/>
-											<p>Never Die Broke Invisions</p>
+											<p>Miss Face of Orange Farm </p>
 											<p>
-												Find Your Purpose White T-shirt
+												co-founder 
 											</p>
-											<p>R230</p>
+											<p>Phindile Maduna</p>
 										</div>
 									</div>
 									<div className="grid-item">
 										<div className="pic7">
-											<img src={safaricap} alt="" />
-											<p>Never Die Broke Invisions</p>
-											<p>Safari Hat</p>
-											<p>R180</p>
+											<img src={co-founder} alt="" />
+											<p>Miss Face of Orange Farm </p>
+											<p>co-founder</p>
+											<p>Penuel</p>
 										</div>
 									</div>
 									<div className="grid-item">
 										<div className="pic8">
-											<img src={panelcap} alt="" />
-											<p>Never Die Broke Invisions</p>
-											<p>Panel Cap</p>
-											<p>R180</p>
+											<img src={sponsor} alt="" />
+											<p>Miss Face of Orange Farm </p>
+											<p>sponsor</p>
+											<p>hplogo</p>
 										</div>
 									</div>
 									<div className="grid-item">
 										<div className="pic9">
-											<img src={beanie} alt="" />
-											<p>Never Die Broke Invisions</p>
-											<p>Black and Orange Beanies</p>
-											<p>R90 each</p>
+											<img src={sponsor} alt="" />
+											<p>Miss Face of Orange Farm </p>
+											<p>sponsor </p>
+											<p>Adidas</p>
 										</div>
 									</div>
 									<div className="grid-item">
 										<div className="pic10">
-											<img src={beanie2} alt="" />
-											<p>Never Die Broke Invisions</p>
-											<p>White Beanie</p>
+											<img src={crown} alt="" />
+											<p>Miss Face of Orange Farm </p>
+											<p>crown</p>
 											<p>R90</p>
 										</div>
 									</div>
 									<div className="grid-item">
 										<div className="pic11">
-											<img src={beanie3} alt="" />
-											<p>Never Die Broke Invisions</p>
-											<p>Skyblue Beanie</p>
-											<p>R90</p>
+											<img src={logo} alt="" />
+											<p>Miss Face of Orange Farm </p>
+											<p>logo</p>
+											<p>MFOF</p>
 										</div>
 									</div>
 									<div className="grid-item">
 										<div className="pic12">
 											<img src={hoodies} alt="" />
-											<p>Never Die Broke Invisions</p>
+											<p>Miss Face of Orange Farm</p>
 											<p>Black and Orange Hoodies</p>
-											<p>R350 each</p>
+											<p>R300 each</p>
 										</div>
 									</div>
 								</div>
