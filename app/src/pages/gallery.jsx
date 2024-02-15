@@ -1,7 +1,7 @@
 import React from "react";
 import "../styles/gallery.css";
 import skullpic1 from "../components/assets/skullpic1.jpg";
-import rivalry from "../components/assets/rivalry.jpg";
+import FB_IMG_1705376759569 from "../components/assets/ FB_IMG_1705376759569.jpg";
 import 5bb55918050940d7a43e68665e25e119 from "../components/assets/5bb55918050940d7a43e68665e25e119.jpg;
 import rivallry2 from "../components/assets/rivallry2.jpg";
 import skullsnake from "../components/assets/skullsnake.jpg";
@@ -41,8 +41,7 @@ const Gallery = () => {
 										</div>
 									</div>
 									<div className="grid-item">
-										<div className="pic2">
-											<img src={Queen} alt="" />
+										<div className="{pic2FB_IMG_1705376759569.jpg} alt="" />
 											<p>Miss Face of Orange Farm </p>
 											<p>Queen</p>
 											<p>R2022</p>
