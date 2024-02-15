@@ -8,7 +8,7 @@ const Navbar = () => {
 			<div className="logo">
 				<img src={logo} alt="" id="logo" />
 				</div>
-				<p>Never Die Broke Invision</p>
+				<p>Miss Face of Orange Farm </p>
 			<ul>
 				<li>
 					<Link className="link" to="/">
