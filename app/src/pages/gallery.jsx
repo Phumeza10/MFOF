@@ -2,7 +2,7 @@ import React from "react";
 import "../styles/gallery.css";
 import skullpic1 from "../components/assets/skullpic1.jpg";
 import rivalry from "../components/assets/rivalry.jpg";
-import neverdiebroke from "../components/assets/neverdiebroke.jpg";
+import 5bb55918050940d7a43e68665e25e119 from "../components/assets/5bb55918050940d7a43e68665e25e119.jpg;
 import rivallry2 from "../components/assets/rivallry2.jpg";
 import skullsnake from "../components/assets/skullsnake.jpg";
 import findyourpurpose2 from "../components/assets/findyourpurpose2.jpg";
@@ -49,8 +49,8 @@ const Gallery = () => {
 										</div>
 									</div>
 									<div className="grid-item">
-										<div className="pic3">
-											<img src={CharityQueen} alt="" />
+										<div className="pic1">
+											<img src={5bb55918050940d7a43e68665e25e119.jpg} alt="" />
 											<p>Miss Face of Orange Farm </p>
 											<p>Charity Queen</p>
 											<p>R2022</p>
