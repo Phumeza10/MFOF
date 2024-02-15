@@ -2,7 +2,7 @@
 	display: flex;
 	justify-content: center;
 	margin: 40px;
-	color: #00abf0;
+	color: gold;
 	font-size: 2rem;
 	font-weight: 900;
 }
@@ -14,7 +14,7 @@ section {
 .review .middle-text h2 {
 	display: flex;
 	justify-content: center;
-	color: #00abf0;
+	color: gold;
 }
 
 .box {
