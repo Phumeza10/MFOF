@@ -14,7 +14,7 @@ section .title {
 	display: flex;
 	justify-content: center;
 	margin: 40px;
-	color: #00abf0;
+	color: gold;
 	font-size: 2rem;
 	font-weight: 900;
 }
