@@ -11,18 +11,18 @@ const Services = () => {
 				<div class="content">
 					<div class="title">Our Services</div>
 					<div className="first">
-						At NEVER DIE BROKE INVISIONS,we pride ourselves on
+						At Miss Face of Orange Farm ,we pride ourselves on
 						delivering fashion that goes beyond the ordinary.Our
 						commitment to excellence is reflected in every stitch,
-						fabric choice and design detail. Here's why our quality
-						products stand out:
+						fabric choice and design detail. Thats why we are one of the best beauty pageants 
+		
 					</div>
 					<div class="boxes">
 						<div class="box">
 							<div class="topic">Diverse Collection</div>
 							<p>
-								Explore our extensive range of clothing,trending
-								hoodies,comfortable beanies,elegant T-shirts and
+								Explore our extensive range of clothing,fashion shows
+								hoodies,comfortable heels,elegant T-shirts and
 								other accessories.We curate our collection to
 								cater various styles and all preferences.
 							</p>
@@ -37,10 +37,10 @@ const Services = () => {
 							</p>
 						</div>
 						<div class="box">
-							<div class="topic">Quality Products</div>
+							<div class="topic">Our Models</div>
 							<p>
 								We priortize quality materials to ensure your
-								clothing is not only fashionable but also
+								the models clothes is not only fashionable but also
 								comfortable.We source only finnest materials to
 								ensure your comfort and satisfaction,from
 								luxurious fabrics to durabale embellishment.Our
