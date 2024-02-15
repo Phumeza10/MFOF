@@ -24,7 +24,7 @@
 }
 
 .nav-menu{
-	background-color: royalblue;
+	background-color: gold;
 }
 
 .nav-menu  ul li {
@@ -54,7 +54,7 @@
 }
 
 .nav-mwnu p:hover {
-	color: #00abf0;
+	color: gold;
 } 
 
 /* xs */
