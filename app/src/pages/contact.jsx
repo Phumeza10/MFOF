@@ -23,7 +23,7 @@ const Contact = () => {
 						<div className="text-one">
 							<p className="first">Thank you for choosing Us!</p>
 							<p className="second">
-								We're here to assist you. <br /> Feel free to reach out
+								We're here to assist you the with modelling. <br /> Feel free to reach out
 								to us using the following contact options:
 							</p>
 							<p className="third">
@@ -36,8 +36,9 @@ const Contact = () => {
 							<p className="fourth">Locate Us @:</p>
 							<div className="address">
 								<p className="fifth">
-									4 Myrtle Street <br /> Protea Glen Ext 12{" "}
-									<br /> 1818
+									5695 Stretford Street
+									 <br /> Orange Farm Ext 2{" "}
+									<br /> 1885
 								</p>
 							</div>
 							<div className="contact-link">
@@ -46,25 +47,25 @@ const Contact = () => {
 									<li className="clicks">
 										<a href="/">
 											<RiFacebookCircleFill />
-											Never Die Broke Invisions
+											Miss Face of Orange Farm 
 										</a>
 									</li>
 									<li className="clicks">
 										<a href="/">
 											<RiInstagramFill />
-											Never Die Broke Invisions
+											Miss Face of Orange Farm 
 										</a>
 									</li>
 									<li className="clicks">
 										<a href="/">
 											<RiWhatsappFill />
-											079-755-1982
+											072 566 2606
 										</a>
 									</li>
 									<li className="clicks">
 										<a href="/">
 											<RiPhoneFill />
-											079-755-1982
+											063 004 4148
 										</a>
 									</li>
 								</div>
@@ -73,7 +74,7 @@ const Contact = () => {
 						<div className="text-three">
 							<span>Mail us @</span>
 							<br />
-							<a href="/">sibekoharriet89@gmail.com</a>
+							<a href="/">phumezalukhele46@gmail.com</a>
 						</div>
 					</div>
 					<div className="table">
